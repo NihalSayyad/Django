@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6052d2e7-b5a3-4260-a863-1f74932c4f19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/00hello_world/helloworld/hola/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,25 +49,40 @@
       <option name="project" value="LOCAL" />
       <updated>1598975194996</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hola">
+      <created>1599154940138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599154940155</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hola">
+      <created>1599154955064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599154955064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World!" />
+    <MESSAGE value="Hola" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hola" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1598975193772">
+    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1599154954041">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
-    <state x="366" y="0" key="CommitChangelistDialog2/0.0.1475.789@0.0.1475.789" timestamp="1598975193772" />
+    <state x="366" y="0" key="CommitChangelistDialog2/0.0.1475.789@0.0.1475.789" timestamp="1599154954041" />
     <state x="518" y="136" key="FileChooserDialogImpl" timestamp="1599059162681">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
     <state x="518" y="136" key="FileChooserDialogImpl/0.0.1475.789@0.0.1475.789" timestamp="1599059162681" />
-    <state x="330" y="128" key="Vcs.Push.Dialog.v2" timestamp="1598975408836">
+    <state x="330" y="128" key="Vcs.Push.Dialog.v2" timestamp="1599154968684">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
-    <state x="330" y="128" key="Vcs.Push.Dialog.v2/0.0.1475.789@0.0.1475.789" timestamp="1598975408836" />
+    <state x="330" y="128" key="Vcs.Push.Dialog.v2/0.0.1475.789@0.0.1475.789" timestamp="1599154968684" />
   </component>
 </project>
