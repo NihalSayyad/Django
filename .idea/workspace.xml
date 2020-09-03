@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6052d2e7-b5a3-4260-a863-1f74932c4f19" name="Default Changelist" comment="" />
+    <list default="true" id="6052d2e7-b5a3-4260-a863-1f74932c4f19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/00hello_world/helloworld/hola/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Program Files" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,16 +44,32 @@
       <option name="presentableId" value="Default" />
       <updated>1598973110122</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hello World!">
+      <created>1598975194996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598975194996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello World!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World!" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1598974063411">
+    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1598975193772">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
-    <state x="366" y="0" key="CommitChangelistDialog2/0.0.1475.789@0.0.1475.789" timestamp="1598974063411" />
-    <state x="518" y="136" key="FileChooserDialogImpl" timestamp="1598973690407">
+    <state x="366" y="0" key="CommitChangelistDialog2/0.0.1475.789@0.0.1475.789" timestamp="1598975193772" />
+    <state x="518" y="136" key="FileChooserDialogImpl" timestamp="1599059162681">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
-    <state x="518" y="136" key="FileChooserDialogImpl/0.0.1475.789@0.0.1475.789" timestamp="1598973690407" />
+    <state x="518" y="136" key="FileChooserDialogImpl/0.0.1475.789@0.0.1475.789" timestamp="1599059162681" />
+    <state x="330" y="128" key="Vcs.Push.Dialog.v2" timestamp="1598975408836">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="330" y="128" key="Vcs.Push.Dialog.v2/0.0.1475.789@0.0.1475.789" timestamp="1598975408836" />
   </component>
 </project>
