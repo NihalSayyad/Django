@@ -2,8 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6052d2e7-b5a3-4260-a863-1f74932c4f19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Django.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/helloworld/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/hola/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/hola/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/hola/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/hola/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/hola/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/hola/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/hola/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/hola/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00hello_world/helloworld/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/mytemplate/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/mytemplate/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/mytemplate/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/mytemplate/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/mytemplate/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02ProjectTwo/mytemplate/website/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +64,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Program Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -63,26 +99,34 @@
       <option name="project" value="LOCAL" />
       <updated>1599154955064</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="website">
+      <created>1599157234457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599157234457</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World!" />
     <MESSAGE value="Hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hola" />
+    <MESSAGE value="website" />
+    <option name="LAST_COMMIT_MESSAGE" value="website" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1599154954041">
+    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1599157233114">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
-    <state x="366" y="0" key="CommitChangelistDialog2/0.0.1475.789@0.0.1475.789" timestamp="1599154954041" />
+    <state x="366" y="0" key="CommitChangelistDialog2/0.0.1475.789@0.0.1475.789" timestamp="1599157233114" />
     <state x="518" y="136" key="FileChooserDialogImpl" timestamp="1599059162681">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
     <state x="518" y="136" key="FileChooserDialogImpl/0.0.1475.789@0.0.1475.789" timestamp="1599059162681" />
-    <state x="330" y="128" key="Vcs.Push.Dialog.v2" timestamp="1599154968684">
+    <state x="330" y="128" key="Vcs.Push.Dialog.v2" timestamp="1599157244723">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
-    <state x="330" y="128" key="Vcs.Push.Dialog.v2/0.0.1475.789@0.0.1475.789" timestamp="1599154968684" />
+    <state x="330" y="128" key="Vcs.Push.Dialog.v2/0.0.1475.789@0.0.1475.789" timestamp="1599157244723" />
   </component>
 </project>
